@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: thailandan-restitution-roadmap-and-qsf-trust-execution
-  name: Thailandan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/thailandan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_th_001
+    name: Thailand Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_002
+    name: Thailand Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_003
+    name: Thailand Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_004
+    name: Thailand Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_005
+    name: Thailand Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_006
+    name: Thailand Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_007
+    name: Thailand Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_008
+    name: Thailand Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_009
+    name: Thailand Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_010
+    name: Thailand Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_011
+    name: Thailand Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_012
+    name: Thailand Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_013
+    name: Thailand Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_014
+    name: Thailand Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_015
+    name: Thailand Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_016
+    name: Thailand Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_017
+    name: Thailand Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_018
+    name: Thailand Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_019
+    name: Thailand Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_020
+    name: Thailand Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_021
+    name: Thailand Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_022
+    name: Thailand Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_023
+    name: Thailand Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_024
+    name: Thailand Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_025
+    name: Thailand Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_026
+    name: Thailand Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_027
+    name: Thailand Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_028
+    name: Thailand Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_029
+    name: Thailand Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_030
+    name: Thailand Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_031
+    name: Thailand Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_032
+    name: Thailand Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_033
+    name: Thailand Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_034
+    name: Thailand Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_035
+    name: Thailand Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_036
+    name: Thailand Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_037
+    name: Thailand Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_038
+    name: Thailand Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_039
+    name: Thailand Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_040
+    name: Thailand Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_041
+    name: Thailand Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_042
+    name: Thailand Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_043
+    name: Thailand Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_044
+    name: Thailand Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_045
+    name: Thailand Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_046
+    name: Thailand Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_047
+    name: Thailand Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_048
+    name: Thailand Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_049
+    name: Thailand Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_050
+    name: Thailand Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_051
+    name: Thailand Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_052
+    name: Thailand Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_053
+    name: Thailand Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_054
+    name: Thailand Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_055
+    name: Thailand Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_056
+    name: Thailand Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_057
+    name: Thailand Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_058
+    name: Thailand Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_059
+    name: Thailand Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_060
+    name: Thailand Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_061
+    name: Thailand Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_062
+    name: Thailand Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_063
+    name: Thailand Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_064
+    name: Thailand Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_065
+    name: Thailand Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_066
+    name: Thailand Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_067
+    name: Thailand Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_068
+    name: Thailand Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_069
+    name: Thailand Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_070
+    name: Thailand Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_071
+    name: Thailand Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_072
+    name: Thailand Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_073
+    name: Thailand Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_074
+    name: Thailand Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_075
+    name: Thailand Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_076
+    name: Thailand Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_077
+    name: Thailand Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_078
+    name: Thailand Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_079
+    name: Thailand Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_080
+    name: Thailand Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_081
+    name: Thailand Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_082
+    name: Thailand Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_083
+    name: Thailand Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_084
+    name: Thailand Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_085
+    name: Thailand Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_086
+    name: Thailand Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_087
+    name: Thailand Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_088
+    name: Thailand Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_089
+    name: Thailand Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_090
+    name: Thailand Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_091
+    name: Thailand Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_092
+    name: Thailand Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_093
+    name: Thailand Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_094
+    name: Thailand Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_095
+    name: Thailand Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_096
+    name: Thailand Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_097
+    name: Thailand Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_098
+    name: Thailand Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_099
+    name: Thailand Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_100
+    name: Thailand Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_101
+    name: Thailand Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_102
+    name: Thailand Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_103
+    name: Thailand Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_104
+    name: Thailand Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_105
+    name: Thailand Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_106
+    name: Thailand Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_107
+    name: Thailand Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_108
+    name: Thailand Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_109
+    name: Thailand Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_110
+    name: Thailand Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_111
+    name: Thailand Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_112
+    name: Thailand Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_113
+    name: Thailand Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_114
+    name: Thailand Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_115
+    name: Thailand Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_116
+    name: Thailand Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_117
+    name: Thailand Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_118
+    name: Thailand Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_119
+    name: Thailand Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_120
+    name: Thailand Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_121
+    name: Thailand Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_122
+    name: Thailand Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_123
+    name: Thailand Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_124
+    name: Thailand Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_125
+    name: Thailand Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_126
+    name: Thailand Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_127
+    name: Thailand Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_128
+    name: Thailand Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_129
+    name: Thailand Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_130
+    name: Thailand Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_131
+    name: Thailand Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_132
+    name: Thailand Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_133
+    name: Thailand Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_134
+    name: Thailand Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_135
+    name: Thailand Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_136
+    name: Thailand Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_137
+    name: Thailand Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_138
+    name: Thailand Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_139
+    name: Thailand Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_140
+    name: Thailand Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_141
+    name: Thailand Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_142
+    name: Thailand Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_143
+    name: Thailand Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_144
+    name: Thailand Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_145
+    name: Thailand Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_146
+    name: Thailand Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_147
+    name: Thailand Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_148
+    name: Thailand Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_149
+    name: Thailand Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_150
+    name: Thailand Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_151
+    name: Thailand Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_152
+    name: Thailand Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_153
+    name: Thailand Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_154
+    name: Thailand Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_155
+    name: Thailand Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_156
+    name: Thailand Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_157
+    name: Thailand Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_158
+    name: Thailand Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_159
+    name: Thailand Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_160
+    name: Thailand Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_161
+    name: Thailand Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_162
+    name: Thailand Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_163
+    name: Thailand Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_164
+    name: Thailand Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_165
+    name: Thailand Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_166
+    name: Thailand Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_167
+    name: Thailand Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_168
+    name: Thailand Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_169
+    name: Thailand Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_170
+    name: Thailand Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_171
+    name: Thailand Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_172
+    name: Thailand Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_173
+    name: Thailand Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_174
+    name: Thailand Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_175
+    name: Thailand Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_176
+    name: Thailand Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_177
+    name: Thailand Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_178
+    name: Thailand Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_179
+    name: Thailand Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_180
+    name: Thailand Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_181
+    name: Thailand Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_182
+    name: Thailand Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_183
+    name: Thailand Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_184
+    name: Thailand Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_185
+    name: Thailand Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_186
+    name: Thailand Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_187
+    name: Thailand Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_188
+    name: Thailand Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_189
+    name: Thailand Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_190
+    name: Thailand Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_191
+    name: Thailand Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_192
+    name: Thailand Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_193
+    name: Thailand Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_194
+    name: Thailand Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_195
+    name: Thailand Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_196
+    name: Thailand Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_197
+    name: Thailand Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_198
+    name: Thailand Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_199
+    name: Thailand Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_200
+    name: Thailand Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_201
+    name: Thailand Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_202
+    name: Thailand Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_203
+    name: Thailand Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_204
+    name: Thailand Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_205
+    name: Thailand Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_206
+    name: Thailand Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_207
+    name: Thailand Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_208
+    name: Thailand Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_209
+    name: Thailand Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_210
+    name: Thailand Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_211
+    name: Thailand Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_212
+    name: Thailand Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_213
+    name: Thailand Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_214
+    name: Thailand Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_215
+    name: Thailand Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_216
+    name: Thailand Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_217
+    name: Thailand Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_218
+    name: Thailand Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_219
+    name: Thailand Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_220
+    name: Thailand Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_221
+    name: Thailand Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_222
+    name: Thailand Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_223
+    name: Thailand Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_224
+    name: Thailand Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_225
+    name: Thailand Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_226
+    name: Thailand Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_227
+    name: Thailand Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_228
+    name: Thailand Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_229
+    name: Thailand Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_230
+    name: Thailand Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_231
+    name: Thailand Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_232
+    name: Thailand Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_233
+    name: Thailand Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_234
+    name: Thailand Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_235
+    name: Thailand Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_236
+    name: Thailand Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_237
+    name: Thailand Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_238
+    name: Thailand Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_239
+    name: Thailand Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_240
+    name: Thailand Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_241
+    name: Thailand Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_242
+    name: Thailand Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_243
+    name: Thailand Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_244
+    name: Thailand Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_245
+    name: Thailand Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_246
+    name: Thailand Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_247
+    name: Thailand Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_248
+    name: Thailand Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_249
+    name: Thailand Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_250
+    name: Thailand Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_251
+    name: Thailand Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_th_252
+    name: Thailand Skill 252
+    status: ACTIVE_SCAFFOLD

@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-thailand-canal-and-intervention-historian
-  name: Thailand Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-thailand-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_th_001
+    name: Thailand Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_002
+    name: Thailand Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_003
+    name: Thailand Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_004
+    name: Thailand Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_005
+    name: Thailand Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_006
+    name: Thailand Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_007
+    name: Thailand Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_008
+    name: Thailand Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_009
+    name: Thailand Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_010
+    name: Thailand Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_011
+    name: Thailand Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_012
+    name: Thailand Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_013
+    name: Thailand Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_014
+    name: Thailand Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_015
+    name: Thailand Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_016
+    name: Thailand Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_017
+    name: Thailand Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_018
+    name: Thailand Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_019
+    name: Thailand Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_020
+    name: Thailand Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_021
+    name: Thailand Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_022
+    name: Thailand Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_023
+    name: Thailand Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_024
+    name: Thailand Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_025
+    name: Thailand Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_026
+    name: Thailand Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_027
+    name: Thailand Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_028
+    name: Thailand Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_029
+    name: Thailand Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_030
+    name: Thailand Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_031
+    name: Thailand Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_032
+    name: Thailand Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_033
+    name: Thailand Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_034
+    name: Thailand Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_035
+    name: Thailand Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_036
+    name: Thailand Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_037
+    name: Thailand Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_038
+    name: Thailand Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_039
+    name: Thailand Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_040
+    name: Thailand Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_041
+    name: Thailand Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_042
+    name: Thailand Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_043
+    name: Thailand Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_044
+    name: Thailand Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_045
+    name: Thailand Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_046
+    name: Thailand Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_047
+    name: Thailand Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_048
+    name: Thailand Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_049
+    name: Thailand Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_050
+    name: Thailand Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_051
+    name: Thailand Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_052
+    name: Thailand Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_053
+    name: Thailand Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_054
+    name: Thailand Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_055
+    name: Thailand Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_056
+    name: Thailand Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_057
+    name: Thailand Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_058
+    name: Thailand Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_059
+    name: Thailand Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_060
+    name: Thailand Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_061
+    name: Thailand Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_062
+    name: Thailand Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_063
+    name: Thailand Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_064
+    name: Thailand Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_065
+    name: Thailand Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_066
+    name: Thailand Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_067
+    name: Thailand Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_068
+    name: Thailand Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_069
+    name: Thailand Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_070
+    name: Thailand Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_071
+    name: Thailand Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_072
+    name: Thailand Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_073
+    name: Thailand Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_074
+    name: Thailand Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_075
+    name: Thailand Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_076
+    name: Thailand Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_077
+    name: Thailand Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_078
+    name: Thailand Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_079
+    name: Thailand Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_080
+    name: Thailand Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_081
+    name: Thailand Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_082
+    name: Thailand Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_083
+    name: Thailand Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_084
+    name: Thailand Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_085
+    name: Thailand Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_086
+    name: Thailand Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_087
+    name: Thailand Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_088
+    name: Thailand Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_089
+    name: Thailand Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_090
+    name: Thailand Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_091
+    name: Thailand Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_092
+    name: Thailand Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_093
+    name: Thailand Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_094
+    name: Thailand Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_095
+    name: Thailand Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_096
+    name: Thailand Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_097
+    name: Thailand Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_098
+    name: Thailand Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_099
+    name: Thailand Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_100
+    name: Thailand Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_101
+    name: Thailand Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_102
+    name: Thailand Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_103
+    name: Thailand Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_104
+    name: Thailand Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_105
+    name: Thailand Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_106
+    name: Thailand Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_107
+    name: Thailand Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_108
+    name: Thailand Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_109
+    name: Thailand Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_110
+    name: Thailand Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_111
+    name: Thailand Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_112
+    name: Thailand Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_113
+    name: Thailand Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_114
+    name: Thailand Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_115
+    name: Thailand Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_116
+    name: Thailand Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_117
+    name: Thailand Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_118
+    name: Thailand Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_119
+    name: Thailand Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_120
+    name: Thailand Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_121
+    name: Thailand Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_122
+    name: Thailand Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_123
+    name: Thailand Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_124
+    name: Thailand Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_125
+    name: Thailand Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_126
+    name: Thailand Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_127
+    name: Thailand Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_128
+    name: Thailand Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_129
+    name: Thailand Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_130
+    name: Thailand Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_131
+    name: Thailand Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_132
+    name: Thailand Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_133
+    name: Thailand Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_134
+    name: Thailand Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_135
+    name: Thailand Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_136
+    name: Thailand Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_137
+    name: Thailand Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_138
+    name: Thailand Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_139
+    name: Thailand Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_140
+    name: Thailand Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_141
+    name: Thailand Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_142
+    name: Thailand Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_143
+    name: Thailand Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_144
+    name: Thailand Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_145
+    name: Thailand Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_146
+    name: Thailand Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_147
+    name: Thailand Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_148
+    name: Thailand Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_149
+    name: Thailand Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_150
+    name: Thailand Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_151
+    name: Thailand Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_152
+    name: Thailand Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_153
+    name: Thailand Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_154
+    name: Thailand Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_155
+    name: Thailand Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_156
+    name: Thailand Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_157
+    name: Thailand Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_158
+    name: Thailand Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_159
+    name: Thailand Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_160
+    name: Thailand Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_161
+    name: Thailand Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_162
+    name: Thailand Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_163
+    name: Thailand Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_164
+    name: Thailand Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_165
+    name: Thailand Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_166
+    name: Thailand Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_167
+    name: Thailand Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_168
+    name: Thailand Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_169
+    name: Thailand Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_th_170
+    name: Thailand Agent 170
+    status: ACTIVE_SCAFFOLD

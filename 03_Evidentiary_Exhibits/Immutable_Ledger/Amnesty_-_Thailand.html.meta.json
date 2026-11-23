@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/thailand/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/south-east-asia-and-the-pacific/thailand/",
+  "title": "Amnesty - Thailand",
+  "fetched_at": "2026-11-23T15:27:11.401691Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 105961,
+  "sha256": "1e44a7acc319c69405a32ad3bdf5616f5954afb1aaafb71f4e160099b656438c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
